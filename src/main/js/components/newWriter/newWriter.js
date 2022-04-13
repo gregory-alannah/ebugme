@@ -73,9 +73,7 @@ const NewWriter = () => {
                             </a>{" "}
                             for Windows.
                         </p>
-                        <button onClick={fakeStartWriting}>
-                            Start writing
-                        </button>
+                        <button onClick={startWriting}>Start writing</button>
                     </div>
                 </div>
             </div>
